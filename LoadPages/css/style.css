@@ -1,0 +1,35 @@
+/*ローディング画面*/
+#loading
+{
+    transition: all ls;
+    background-color: #add;
+    position: fixed;
+    z-index: 9999;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+.spinner
+{
+    width: 200px;
+    height: 200px;
+}
+/*ローディング完了したらローディング画面を消す*/
+.loaded
+{
+    opacity: 0;
+    visibility: hidden;
+}
+/*コンテンツを表示*/
+.gallery
+{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+img
+{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
