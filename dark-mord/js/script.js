@@ -7,11 +7,11 @@ btn.addEventListener('click',()=>
     document.body.classList.toggle('dark-theme');
     if(btn.textContent==='ダークモードにする')
     {
-        btn.textContent==='ライトモードにする';
+        btn.textContent='ライトモードにする';
     }
-    else(btn.textContent==='ライトモードにする')
+    else
     {
-        btn.textContent==='ダークモードにする';
+        btn.textContent='ダークモードにする';
     }
 
 }
