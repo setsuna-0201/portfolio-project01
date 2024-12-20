@@ -5,4 +5,6 @@
 [https://setsuna-0201.github.io/portfolio-project01/)ColorPicker/](https://setsuna-0201.github.io/portfolio-project01/ColorPicker/)
 ##
 https://setsuna-0201.github.io/portfolio-project01/dark-mord/index.html
+##
+https://setsuna-0201.github.io/portfolio-project01/CountWord
 
