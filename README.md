@@ -8,5 +8,6 @@ https://setsuna-0201.github.io/portfolio-project01/dark-mord/index.html
 ##
 https://setsuna-0201.github.io/portfolio-project01/CountWord/index.html
 ##
-https://setsuna-0201.github.io/portfolio-project01/スクロールバー/inedx.html
+https://setsuna-0201.github.io/portfolio-project01/スクロールバー/index.html
+
 
